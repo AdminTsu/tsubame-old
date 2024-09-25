@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.tsubame-jltc.com/</loc>
+  <lastmod>2020-05-26T08:08:29+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.tsubame-jltc.com/login</loc>
+  <lastmod>2020-05-26T08:08:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.tsubame-jltc.com/register</loc>
+  <lastmod>2020-05-26T08:08:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.tsubame-jltc.com/overview</loc>
+  <lastmod>2020-05-26T08:08:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.tsubame-jltc.com/about</loc>
+  <lastmod>2020-05-26T08:08:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.tsubame-jltc.com/program</loc>
+  <lastmod>2020-05-26T08:08:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.tsubame-jltc.com/indonesia</loc>
+  <lastmod>2020-05-26T08:08:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.tsubame-jltc.com/id</loc>
+  <lastmod>2020-05-26T08:08:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.tsubame-jltc.com/password/reset</loc>
+  <lastmod>2020-05-26T08:08:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.tsubame-jltc.com/id/overview</loc>
+  <lastmod>2020-05-26T08:08:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.tsubame-jltc.com/id/about</loc>
+  <lastmod>2020-05-26T08:08:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.tsubame-jltc.com/id/program</loc>
+  <lastmod>2020-05-26T08:08:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.tsubame-jltc.com/id/indonesia</loc>
+  <lastmod>2020-05-26T08:08:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

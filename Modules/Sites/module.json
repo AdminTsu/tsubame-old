@@ -1,0 +1,16 @@
+{
+    "name": "Sites",
+    "alias": "sites",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Sites\\Providers\\SitesServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}

@@ -1,0 +1,10 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/sites.js": "/js/sites.js",
+    "/css/sites.css": "/css/sites-min.css",
+    "/js/accounts.js": "/js/accounts.js",
+    "/css/accounts.css": "/css/accounts.css",
+    "/js/panels.js": "/js/panels.js",
+    "/css/panels.css": "/css/panels.css"
+}

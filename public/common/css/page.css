@@ -1,0 +1,215 @@
+@charset "utf-8";
+
+/**************************************************
+		Home
+**************************************************/
+#mainImage {
+	position:relative;
+	height:450px;
+	background:transparent url("../../img/bg_main.jpg") 50% 50% no-repeat;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-ms-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+}
+
+#mainImage h2 {
+	position:absolute;
+	top:105px;
+	left:50%;
+	margin-left:-165px;
+}
+
+#mainArea .aboutBox01 {
+	position:relative;
+	padding-top:80px;
+	background:transparent url("../../img/bg_about_01.jpg") 50% 80px no-repeat;
+	z-index:20;
+}
+
+#mainArea .aboutBox01 .ti01:after {
+	margin-top:12px;
+	width:30px;
+}
+
+#mainArea .aboutBox02 {
+	margin-top:-120px;
+	background:transparent url("../../img/bg_about_02.jpg") 50% 50% no-repeat;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-ms-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+	z-index:10;
+}
+
+#mainArea .aboutBox02 .bg {
+	position:relative;
+	height:420px;
+}
+
+#mainArea .aboutBox02 p {
+	position:absolute;
+	bottom:55px;
+	right:0;
+}
+
+#mainArea .listMenu {}
+
+#mainArea .listMenu li {
+	float:left;
+	width:25%;
+}
+
+#mainArea .listMenu li a {
+	display:block;
+	position:relative;
+	padding:85px 25px 45px 25px;
+	min-height:250px;
+	background:#e40321;
+	color:#fff;
+	text-decoration:none;
+}
+
+#mainArea .listMenu li:nth-child(2n) a {
+	background:#b10018;
+}
+
+#mainArea .listMenu li h3 {
+	position:absolute;
+	top:-70px;
+	left:50%;
+	margin-left:-70px;
+}
+
+#mainArea .listMenu li .more {
+	position:absolute;
+	bottom:15px;
+	right:15px;
+	border:1px solid #fff;
+	padding:0 15px;
+	font-weight:bold;
+}
+
+#mainArea .listMenu li a:hover .more {
+	background:#fff;
+	color:#e40321;
+}
+
+
+/**************************************************
+		Overview
+**************************************************/
+#mainArea .listAddress {
+	font-size:14px;
+	font-size:0.88rem;
+}
+
+#mainArea .listAddress dt {
+	margin-bottom:5px;
+	font-weight:bold;
+	color:#e40321;
+	line-height:2;
+}
+
+#mainArea .listAddress dd {
+	margin-bottom:20px;
+	padding-bottom:20px;
+	border-bottom:1px solid #ddd;
+	line-height:2;
+}
+
+#mainArea .listAddress dd:last-child {
+	margin-bottom:0;
+	padding-bottom:0;
+	border-bottom:0;
+}
+
+
+/**************************************************
+		About
+**************************************************/
+#mainArea .advantageBox .bg {
+	position:relative;
+}
+
+#mainArea .advantageBox .image {
+	margin-top:-189px;
+}
+
+#mainArea .advantageBox h4 {
+	position:relative;
+	z-index:20;
+}
+
+#mainArea .advantageBox .arrow {
+	position:absolute;
+	left:245px;
+	bottom:-35px;
+	z-index:10;
+}
+
+
+/**************************************************
+		Program
+**************************************************/
+#mainArea .h200 {
+	min-height:200px;
+}
+
+#mainArea .scheduleBox {
+	position:relative;
+}
+
+#mainArea .scheduleBox .bg {
+	display:table;
+	width:100%;
+	background:#fff url("../../program/img/bg_schedulebox.gif") 65px 60px no-repeat;
+	z-index:10;
+}
+
+#mainArea .scheduleBox .noArrow {
+	background-image:none;
+}
+
+#mainArea .scheduleBox .title {
+	display:table-cell;
+	padding:25px 0 25px 40px;
+	width:210px;
+	font-size:14px;
+	font-size:0.88rem;
+	font-weight:bold;
+	color:#e40321;
+	line-height:2;
+	vertical-align:top;
+}
+
+#mainArea .scheduleBox .text {
+	display:table-cell;
+	padding:25px 20px 25px 0;
+	vertical-align:top;
+}
+
+#mainArea .scheduleBox .image01 {
+	position:absolute;
+	top:35px;
+	right:20px;
+	z-index:20;
+}
+
+#mainArea .scheduleBox .image02 {
+	position:absolute;
+	top:45px;
+	right:20px;
+	z-index:20;
+}
+
+#mainArea .scheduleBox .arrow {
+	position:relative;
+	margin:0 0 -17px 60px;
+	line-height:0;
+	z-index:20;
+}
+
+
